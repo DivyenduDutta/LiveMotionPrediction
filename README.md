@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Technische%20Universit%C3%A4t%20Dresden-%2300305D)](https://tu-dresden.de/)
-[![](https://img.shields.io/badge/Interactive%20Media%20Lab%20Dresden-brightgreen)](https://imld.de/)
+[![](https://img.shields.io/badge/Interactive%20Media%20Lab%20Dresden-green)](https://imld.de/)
 
 
 # Short-term Prediction of User Motion from Live Tracking Data
